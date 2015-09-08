@@ -1,6 +1,6 @@
 # Leap Year Detector
 
-##### The website calculate whether or not the year entered by the user is a leap year or not. (9/8/15)
+##### Calculates whether or not the year entered by the user is a leap year. (9/8/15)
 
 #### By Logan Wu
 
