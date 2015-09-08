@@ -23,7 +23,7 @@ This application allows users to enter a year and it tells them if it's a leap y
 
 ## Technologies Used
 
-HTML, CSS, JavaScript, Mocha and Chai for testing
+HTML, CSS, JavaScript, jQuery, Mocha and Chai for testing
 
 ### Legal
 
