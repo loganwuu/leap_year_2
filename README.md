@@ -1,4 +1,4 @@
-# Shoe Stores with MySQL
+# Leap Year Detector
 
 ##### The website calculate whether or not the year entered by the user is a leap year or not. (9/8/15)
 
@@ -10,7 +10,7 @@ This application allows users to enter a year and it tells them if it's a leap y
 
 ## Specs
 * A leap year is divisible by 4.
-* Not a leap year if not divisible by 4. 
+* Not a leap year if not divisible by 4.
 * A leap year is not divisible by 100.
 
 ## Setup
