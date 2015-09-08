@@ -12,6 +12,7 @@ This application allows users to enter a year and it tells them if it's a leap y
 * A leap year is divisible by 4.
 * Not a leap year if not divisible by 4.
 * A leap year is not divisible by 100.
+* A leap year is divisible by 400.
 
 ## Setup
 
